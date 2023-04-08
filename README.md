@@ -2,7 +2,7 @@
   <img src="client/src/assets/to_readme/ScrimShop.gif" width="600px">
 </div>
 
-## Installation
+## Etapas para iniciar o aplicativo
 
 ### Client
 
